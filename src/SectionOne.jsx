@@ -33,7 +33,7 @@ export function SectionOne(){
                  </div>
               
             </div>
-            <img src="/public/Group-12.svg" alt="" />
+            <img src="/Group-12.svg" alt="" />
            </div>
         </section>
     )
